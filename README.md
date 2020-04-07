@@ -4,9 +4,9 @@ Open Sauce Sans™ is a typeface that we developed for Creative Sauce's internal
 
 ---
 
-- Design: Alfredo Marco Pradil
-- Development: Alfredo Marco Pradil
-- Company: Creative Sauce
+- Design: [Alfredo Marco Pradil](https://www.behance.net/pradil)
+- Development: [Alfredo Marco Pradil](https://www.behance.net/pradil)
+- Company: [Creative Sauce](https://www.behance.net/creativesauceagency)
 - Glyphs: 358
 - Styles: 14
 - Class: Sans Serif, Modern Grotesque
