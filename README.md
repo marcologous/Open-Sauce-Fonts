@@ -8,7 +8,7 @@ Open Sauce Sans™ is a typeface that we developed for Creative Sauce's internal
 - Development: [Alfredo Marco Pradil](https://www.behance.net/pradil)
 - Company: [Creative Sauce](https://www.behance.net/creativesauceagency)
 - Glyphs: 358
-- Styles: 14
+- Styles: 28
 - Class: Sans Serif, Modern Grotesque
 - Filetype (Desktop): OTF, TTF
 
