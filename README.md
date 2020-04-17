@@ -1,6 +1,6 @@
-# Open Sauce Sans
+# Open Sauce Fonts
 
-Open Sauce Sans™ is a typeface that we developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce Sans fonts are under the SIL Open Font License and is going to be actively developed, improved and tested.
+Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce Sans fonts are under the SIL Open Font License and is going to be actively developed, improved and tested.
 
 ---
 
