@@ -16,3 +16,31 @@ Open Sauce Fonts is a font super family that I developed for Creative Sauce's in
 
 ### Language Support: 
 Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan, Chiga, Colognian, Cornish, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Friulian, Galician, German, Gusii, Hungarian, Icelandic, Indonesian, Irish, Italian, Kabuverdianu, Kalenjin, Kinyarwanda, Latvian, Lithuanian, Low German, Lower Sorbian, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Manx, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Romanian, Romansh, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Turkmen, Upper Sorbian, Vunjo, Welsh, Western Frisian, and Zulu
+
+---
+
+Type Specimens:
+
+<img src="images/OpenSauce_2.jpg">
+
+<img src="images/OpenSauce_3.jpg">
+
+<img src="images/OpenSauce_4.jpg">
+
+<img src="images/OpenSauce_5.jpg">
+
+<img src="images/OpenSauce_6.jpg">
+
+<img src="images/OpenSauce_7.jpg">
+
+<img src="images/OpenSauce_8.jpg">
+
+<img src="images/OpenSauce_9.jpg">
+
+<img src="images/OpenSauce_10.jpg">
+
+<img src="images/OpenSauce_11.jpg">
+
+<img src="images/OpenSauce_12.jpg">
+
+<img src="images/OpenSauce_13.jpg">
