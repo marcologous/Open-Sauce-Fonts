@@ -21,26 +21,26 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan, Chiga, Colognian, Cornis
 
 Type Specimens:
 
-<img src="images/OpenSauce_2.jpg">
+<img src="Images/OpenSauce_2.jpg">
 
-<img src="images/OpenSauce_3.jpg">
+<img src="Images/OpenSauce_3.jpg">
 
-<img src="images/OpenSauce_4.jpg">
+<img src="Images/OpenSauce_4.jpg">
 
-<img src="images/OpenSauce_5.jpg">
+<img src="Images/OpenSauce_5.jpg">
 
-<img src="images/OpenSauce_6.jpg">
+<img src="Images/OpenSauce_6.jpg">
 
-<img src="images/OpenSauce_7.jpg">
+<img src="Images/OpenSauce_7.jpg">
 
-<img src="images/OpenSauce_8.jpg">
+<img src="Images/OpenSauce_8.jpg">
 
-<img src="images/OpenSauce_9.jpg">
+<img src="Images/OpenSauce_9.jpg">
 
-<img src="images/OpenSauce_10.jpg">
+<img src="Images/OpenSauce_10.jpg">
 
-<img src="images/OpenSauce_11.jpg">
+<img src="Images/OpenSauce_11.jpg">
 
-<img src="images/OpenSauce_12.jpg">
+<img src="Images/OpenSauce_12.jpg">
 
-<img src="images/OpenSauce_13.jpg">
+<img src="Images/OpenSauce_13.jpg">
