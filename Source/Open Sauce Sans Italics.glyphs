@@ -1,8 +1,5 @@
 {
 .appVersion = "1342";
-DisplayStrings = (
-"/dcaron/lcaron/tcaron"
-);
 classes = (
 {
 automatic = 1;
@@ -100,7 +97,7 @@ value = "5";
 },
 {
 name = typoAscender;
-value = 763;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -188,7 +185,7 @@ value = "5";
 },
 {
 name = typoAscender;
-value = 763;
+value = 1000;
 },
 {
 name = typoDescender;
@@ -272,7 +269,7 @@ value = "5";
 },
 {
 name = typoAscender;
-value = 763;
+value = 1000;
 },
 {
 name = typoDescender;
