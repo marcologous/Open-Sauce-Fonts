@@ -1,5 +1,5 @@
 {
-.appVersion = "1338";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2020 by Alfredo Marco Pradil and Creative Sauce Fz LLC (creative-sauce.com)";
+copyright = "Copyright (c) 2020 The Open Sauce Two Authors (https://github.com/marcologous/Open-Sauce-Fonts)";
 customParameters = (
 {
 name = licenseURL;
@@ -15,10 +15,10 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "Copyright (c) 2020 by Alfredo Marco Pradil and Creative Sauce Fz LLC (creative-sauce.com) with Reserved Font Name Open Sauce Two.\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL";
+value = "Copyright (c) 2020 The Open Sauce Two Authors (https://github.com/marcologous/Open-Sauce-Fonts)\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1.\012This license is copied below, and is also available with a FAQ at:\012http://scripts.sil.org/OFL";
 }
 );
-date = "2020-05-26 05:19:27 +0000";
+date = "2020-07-09 07:09:25 +0000";
 designer = "Alfredo Marco Pradil";
 designerURL = "http://www.creative-sauce.com";
 familyName = "Open Sauce Two";
@@ -51894,5 +51894,5 @@ manufacturer = "Creative Sauce Fz LLC";
 manufacturerURL = "http://www.creative-sauce.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 476;
+versionMinor = 477;
 }
