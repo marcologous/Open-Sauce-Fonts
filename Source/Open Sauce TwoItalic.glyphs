@@ -10121,7 +10121,7 @@ unicode = 021A;
 {
 color = 1;
 glyphname = U;
-lastChange = "2020-04-15 13:18:42 +0000";
+lastChange = "2020-07-09 08:32:39 +0000";
 layers = (
 {
 anchors = (
@@ -10131,7 +10131,7 @@ position = "{327, 0}";
 },
 {
 name = ogonek;
-position = "{443, 0}";
+position = "{423, 0}";
 },
 {
 name = top;
@@ -10158,7 +10158,7 @@ nodes = (
 "605 757 OFFCURVE",
 "603 745 CURVE SMOOTH",
 "521 285 LINE SMOOTH",
-"508 207 OFFCURVE",
+"507 207 OFFCURVE",
 "468 143 OFFCURVE",
 "352 143 CURVE SMOOTH",
 "256 143 OFFCURVE",
@@ -10196,7 +10196,7 @@ position = "{306, 0}";
 },
 {
 name = ogonek;
-position = "{389, 0}";
+position = "{369, 0}";
 },
 {
 name = top;
@@ -10261,7 +10261,7 @@ position = "{297, 0}";
 },
 {
 name = ogonek;
-position = "{382, 0}";
+position = "{342, 0}";
 },
 {
 name = top;
@@ -10277,7 +10277,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"585 96 OFFCURVE",
+"584 96 OFFCURVE",
 "615 270 CURVE SMOOTH",
 "700 752 LINE SMOOTH",
 "701 758 OFFCURVE",
@@ -10614,7 +10614,7 @@ unicode = 016A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2020-04-15 12:47:10 +0000";
+lastChange = "2020-07-09 08:32:39 +0000";
 layers = (
 {
 components = (
@@ -10623,7 +10623,7 @@ name = U;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 268, 0}";
+transform = "{1, 0, 0, 1, 228, 0}";
 }
 );
 layerId = "2F4EEC1B-9E89-4E08-AD53-AB625B6E887D";
@@ -10636,7 +10636,7 @@ name = U;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 266, 0}";
+transform = "{1, 0, 0, 1, 246, 0}";
 }
 );
 layerId = "11907447-A26F-432E-A335-7727E0303767";
@@ -10649,7 +10649,7 @@ name = U;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 284, 0}";
+transform = "{1, 0, 0, 1, 264, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";

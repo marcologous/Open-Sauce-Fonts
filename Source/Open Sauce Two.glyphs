@@ -870,7 +870,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2020-04-15 13:26:21 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -905,7 +905,7 @@ name = A;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 483, 0}";
+transform = "{1, 0, 0, 1, 503, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -3226,7 +3226,7 @@ unicode = 0112;
 },
 {
 glyphname = Eogonek;
-lastChange = "2020-04-15 13:26:29 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -3261,7 +3261,7 @@ name = E;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 350, 0}";
+transform = "{1, 0, 0, 1, 370, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -4888,7 +4888,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2020-04-15 13:26:37 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -4923,7 +4923,7 @@ name = I;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 8, 0}";
+transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -10777,7 +10777,7 @@ unicode = 021A;
 {
 color = 1;
 glyphname = U;
-lastChange = "2020-04-15 11:41:19 +0000";
+lastChange = "2020-07-09 08:31:42 +0000";
 layers = (
 {
 anchors = (
@@ -10787,7 +10787,7 @@ position = "{377, 0}";
 },
 {
 name = ogonek;
-position = "{493, 0}";
+position = "{473, 0}";
 },
 {
 name = top;
@@ -10903,7 +10903,7 @@ position = "{355, 0}";
 },
 {
 name = ogonek;
-position = "{438, 0}";
+position = "{428, 0}";
 },
 {
 name = top;
@@ -11019,7 +11019,7 @@ position = "{345, 0}";
 },
 {
 name = ogonek;
-position = "{430, 0}";
+position = "{410, 0}";
 },
 {
 name = top;
@@ -11423,7 +11423,7 @@ unicode = 016A;
 },
 {
 glyphname = Uogonek;
-lastChange = "2020-04-15 12:02:57 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -11432,7 +11432,7 @@ name = U;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 270, 0}";
+transform = "{1, 0, 0, 1, 250, 0}";
 }
 );
 layerId = "2F4EEC1B-9E89-4E08-AD53-AB625B6E887D";
@@ -11445,7 +11445,7 @@ name = U;
 },
 {
 name = ogonekcomb.case;
-transform = "{1, 0, 0, 1, 267, 0}";
+transform = "{1, 0, 0, 1, 257, 0}";
 }
 );
 layerId = "11907447-A26F-432E-A335-7727E0303767";
@@ -13673,7 +13673,7 @@ unicode = 0101;
 },
 {
 glyphname = aogonek;
-lastChange = "2020-04-15 13:26:51 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -13708,7 +13708,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 321, 0}";
+transform = "{1, 0, 0, 1, 341, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -16344,7 +16344,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2020-04-15 12:02:57 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -16379,7 +16379,7 @@ name = e;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 297, 44}";
+transform = "{1, 0, 0, 1, 317, 44}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -17888,7 +17888,7 @@ unicode = 012B;
 },
 {
 glyphname = iogonek;
-lastChange = "2020-04-15 13:27:01 +0000";
+lastChange = "2020-07-09 08:32:00 +0000";
 layers = (
 {
 components = (
@@ -17935,7 +17935,7 @@ transform = "{1, 0, 0, 1, 36, 0}";
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, -8, 0}";
+transform = "{1, 0, 0, 1, 12, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -23565,7 +23565,7 @@ unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2020-04-15 12:02:57 +0000";
+lastChange = "2020-07-09 08:32:01 +0000";
 layers = (
 {
 components = (
@@ -23600,7 +23600,7 @@ name = u;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 358, 0}";
+transform = "{1, 0, 0, 1, 378, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -48771,13 +48771,13 @@ unicode = 0327;
 {
 color = 1;
 glyphname = ogonekcomb;
-lastChange = "2020-04-15 12:02:56 +0000";
+lastChange = "2020-07-09 08:32:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = _ogonek;
-position = "{211, 0}";
+position = "{191, 0}";
 }
 );
 layerId = "FD6EB2BB-8839-4CDB-86BF-4EEAE3F02079";
@@ -48802,13 +48802,13 @@ nodes = (
 "125 -97 OFFCURVE",
 "125 -79 CURVE SMOOTH",
 "125 -56 OFFCURVE",
-"141 -43 OFFCURVE",
-"211 0 CURVE",
-"110 0 LINE",
-"110 -20 LINE",
-"35 -45 OFFCURVE",
-"8 -72 OFFCURVE",
-"8 -126 CURVE SMOOTH",
+"139 -32 OFFCURVE",
+"191 0 CURVE",
+"90 0 LINE",
+"90 -20 LINE",
+"15 -45 OFFCURVE",
+"8 -92 OFFCURVE",
+"8 -116 CURVE SMOOTH",
 "8 -180 OFFCURVE",
 "47 -208 OFFCURVE",
 "130 -208 CURVE SMOOTH"
