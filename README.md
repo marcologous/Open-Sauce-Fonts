@@ -8,7 +8,7 @@ Open Sauce Fonts is a font super family that I developed for Creative Sauce's in
 - Development: [Alfredo Marco Pradil](https://www.behance.net/pradil)
 - Company: [Creative Sauce](https://www.behance.net/creativesauceagency)
 - Glyphs: 358
-- Styles: 42
+- Styles: 42 — Open Sauce Sans (has ink traps), Open Sauce One (no ink traps), and Open Sauce Two (rounded corners)
 - Class: Sans Serif, Modern Grotesque
 - Filetype (Desktop): OTF, TTF
 
