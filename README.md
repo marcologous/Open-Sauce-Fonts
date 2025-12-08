@@ -23,7 +23,7 @@ Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan, Chiga, Colognian, Cornis
 ## Usage Guidelines
 - **Branding & UI:** Use Open Sauce Sans for crisp UI labels, Open Sauce One for a neutral look, and Open Sauce Two for softer, rounded applications.
 - **Pairing:** Combine bold weights for headings with regular or book weights for body text to maintain readability at small sizes.
-- **Credits:** Please attribute the design to Alfredo Marco Pradil and Creative Sauce when appropriate.
+- **Credits:** Please attribute the design to Alfredo Marco Pradil when appropriate.
 
 ## Type Specimens
 Below are sample spreads showcasing the family. The linked assets remain unchanged from the original project.
@@ -55,4 +55,4 @@ Below are sample spreads showcasing the family. The linked assets remain unchang
 ---
 
 ### About the Author
-Designed and developed by [Alfredo Marco Pradil](https://www.behance.net/pradil) for [Creative Sauce](https://www.behance.net/creativesauceagency). The family will continue to be improved, tested, and expanded as an open-source project.
+Designed and developed by [Alfredo Marco Pradil](https://www.behance.net/pradil). The family will continue to be improved, tested, and expanded as an open-source project.
