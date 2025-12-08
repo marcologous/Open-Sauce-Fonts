@@ -1,25 +1,32 @@
 # Open Sauce Fonts
 
-Open Sauce Fonts is a font super family that I developed for Creative Sauce's internal type system. It is a compact typeface that is optimised for better viewing small text on screen and print. Open Sauce fonts (Sans, One and Two) are under the SIL Open Font License and is going to be actively developed, improved and tested.
+Open Sauce Fonts is a modern grotesque superfamily crafted by [Alfredo Marco Pradil](https://www.behance.net/pradil) for [Creative Sauce](https://www.behance.net/creativesauceagency). Designed to excel in digital interfaces and print, the family balances compact proportions with generous clarity, making it ideal for UI, branding, and editorial typography.
 
----
+## Key Details
+- **Families & Styles:** 42 styles across Open Sauce Sans (with ink traps), Open Sauce One (no ink traps), and Open Sauce Two (rounded corners).
+- **Glyph Set:** 358 glyphs with extensive Latin coverage.
+- **Formats:** OTF and TTF desktop binaries.
+- **Classification:** Sans Serif, Modern Grotesque.
+- **License:** Released under the [SIL Open Font License](Open%20Sauce%20Sans%20OFL.txt) (OFL) for open-source and commercial use.
 
-- Design: [Alfredo Marco Pradil](https://www.behance.net/pradil)
-- Development: [Alfredo Marco Pradil](https://www.behance.net/pradil)
-- Company: [Creative Sauce](https://www.behance.net/creativesauceagency)
-- Glyphs: 358
-- Styles: 42 — Open Sauce Sans (has ink traps), Open Sauce One (no ink traps), and Open Sauce Two (rounded corners)
-- Class: Sans Serif, Modern Grotesque
-- Filetype (Desktop): OTF, TTF
+## Language Support
+Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan, Chiga, Colognian, Cornish, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Friulian, Galician, German, Gusii, Hungarian, Icelandic, Indonesian, Irish, Italian, Kabuverdianu, Kalenjin, Kinyarwanda, Latvian, Lithuanian, Low German, Lower Sorbian, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Manx, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Romanian, Romansh, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Turkmen, Upper Sorbian, Vunjo, Welsh, Western Frisian, and Zulu.
 
----
+## Getting Started
+1. **Download the fonts:** Grab the OTF/TTF files from the [`fonts/`](fonts) directory.
+2. **Install on your system:**
+   - **macOS:** Double-click each font file and select **Install Font**.
+   - **Windows:** Right-click the font file and choose **Install** or **Install for all users**.
+   - **Linux:** Copy fonts into `~/.local/share/fonts` (per user) or `/usr/share/fonts` (system-wide), then run `fc-cache -f -v`.
+3. **Try the specimen:** Open `specimen.html` in your browser or run `python generate_specimen.py` to regenerate the specimen page.
 
-### Language Support: 
-Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Catalan, Chiga, Colognian, Cornish, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Friulian, Galician, German, Gusii, Hungarian, Icelandic, Indonesian, Irish, Italian, Kabuverdianu, Kalenjin, Kinyarwanda, Latvian, Lithuanian, Low German, Lower Sorbian, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Manx, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Polish, Portuguese, Romanian, Romansh, Rombo, Rundi, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Turkish, Turkmen, Upper Sorbian, Vunjo, Welsh, Western Frisian, and Zulu
+## Usage Guidelines
+- **Branding & UI:** Use Open Sauce Sans for crisp UI labels, Open Sauce One for a neutral look, and Open Sauce Two for softer, rounded applications.
+- **Pairing:** Combine bold weights for headings with regular or book weights for body text to maintain readability at small sizes.
+- **Credits:** Please attribute the design to Alfredo Marco Pradil and Creative Sauce when appropriate.
 
----
-
-Type Specimens:
+## Type Specimens
+Below are sample spreads showcasing the family. The linked assets remain unchanged from the original project.
 
 <img src="Images/OpenSauce_2.jpg">
 
@@ -44,3 +51,8 @@ Type Specimens:
 <img src="Images/OpenSauce_12.jpg">
 
 <img src="Images/OpenSauce_13.jpg">
+
+---
+
+### About the Author
+Designed and developed by [Alfredo Marco Pradil](https://www.behance.net/pradil) for [Creative Sauce](https://www.behance.net/creativesauceagency). The family will continue to be improved, tested, and expanded as an open-source project.
