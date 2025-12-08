@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Open Sauce Sans Specimen</title>
+  <style>
+    @font-face {
+      font-family: 'Open Sauce Sans';
+      src: url('./fonts/woff2/OpenSauceSansVF.woff2') format('woff2');
+      font-weight: 100 900;
+      font-display: swap;
+    }
+
+    :root {
+      --wght: 400;
+      --wdth: 100;
+    }
+
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: 'Open Sauce Sans', system-ui, -apple-system, sans-serif;
+      background: #f6f6f6;
+      color: #1d1d1f;
+    }
+
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.75rem;
+      font-variation-settings: 'wght' var(--wght), 'wdth' var(--wdth);
+    }
+
+    .controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .control {
+      background: white;
+      padding: 12px 14px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      min-width: 220px;
+    }
+
+    .control label {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.95rem;
+      margin-bottom: 8px;
+      color: #444;
+    }
+
+    .control input[type='range'] {
+      width: 100%;
+    }
+
+    .editor {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      min-height: 60vh;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+      font-size: 1.25rem;
+      line-height: 1.6;
+      font-variation-settings: 'wght' var(--wght), 'wdth' var(--wdth);
+    }
+
+    .editor:focus {
+      outline: 3px solid #a4c8ff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Open Sauce Sans Specimen</h1>
+    <div class="controls">
+      <div class="control">
+        <label for="wght">Weight <span id="wghtValue">400</span></label>
+        <input id="wght" type="range" min="100" max="900" value="400" step="1" />
+      </div>
+      <div class="control">
+        <label for="wdth">Width <span id="wdthValue">100</span></label>
+        <input id="wdth" type="range" min="75" max="100" value="100" step="1" />
+      </div>
+    </div>
+  </header>
+
+  <div class="editor" contenteditable="true" spellcheck="false">
+    <p>Use this space to experiment with Open Sauce Sans. Adjust the sliders above to explore the variable weight and width axes in real time.</p>
+    <p>Double-click any text to edit it. Paste your own content, try headlines, paragraphs, or multilingual samples to see how the font performs across scenarios.</p>
+  </div>
+
+  <script>
+    const root = document.documentElement;
+    const controls = [
+      { id: 'wght', variable: '--wght', display: document.getElementById('wghtValue') },
+      { id: 'wdth', variable: '--wdth', display: document.getElementById('wdthValue') },
+    ];
+
+    controls.forEach(({ id, variable, display }) => {
+      const input = document.getElementById(id);
+      const update = (value) => {
+        root.style.setProperty(variable, value);
+        if (display) display.textContent = value;
+      };
+      update(input.value);
+      input.addEventListener('input', (event) => update(event.target.value));
+    });
+  </script>
+</body>
+</html>
