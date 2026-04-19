@@ -3,7 +3,7 @@
 Open Sauce Fonts is a modern grotesque superfamily crafted by [Alfredo Marco Pradil](https://www.behance.net/pradil) for [Creative Sauce](https://www.behance.net/creativesauceagency). Designed to excel in digital interfaces and print, the family balances compact proportions with generous clarity, making it ideal for UI, branding, and editorial typography.
 
 ## Key Details
-- **Families & Styles:** 42 styles across Open Sauce Sans (with ink traps), Open Sauce One (no ink traps), and Open Sauce Two (rounded corners).
+- **Families & Styles:** 36 styles across Open Sauce Sans (with ink traps), Open Sauce One (no ink traps), and Open Sauce Two (rounded corners).
 - **Glyph Set:** 358 glyphs with extensive Latin coverage.
 - **Formats:** OTF and TTF desktop binaries.
 - **Classification:** Sans Serif, Modern Grotesque.
