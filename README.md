@@ -136,7 +136,7 @@ Open-Sauce-Fonts/
 
 ## Version History
 
-### v1.0 (Current)
+### v1.478 (Current)
 - Initial release
 - 3 families × 7 weights × 2 styles
 - OTF and TTF formats
