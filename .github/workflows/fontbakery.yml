@@ -1,0 +1,87 @@
+name: Font Bakery Checks
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  fontbakery:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install fontbakery[googlefonts] fontmake glyphsLib
+
+      - name: Build TTF fonts from Glyphs sources
+        run: |
+          # Create output directory
+          mkdir -p fonts/ttf-built
+
+          # Build Open Sauce One
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce One.glyphs"
+
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce One Italic.glyphs"
+
+          # Build Open Sauce Sans
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce Sans.glyphs"
+
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce Sans Italics.glyphs"
+
+          # Build Open Sauce Two
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce Two.glyphs"
+
+          fontmake -o ttf --output-dir fonts/ttf-built/ \
+            --filter DecomposeTransformedComponentsFilter \
+            "Source/Open Sauce TwoItalic.glyphs"
+
+      - name: Run Font Bakery Universal Checks
+        run: |
+          fontbakery check-universal fonts/ttf-built/*.ttf
+
+      - name: Run Font Bakery Google Fonts Checks
+        run: |
+          fontbakery check-googlefonts fonts/ttf-built/*.ttf || true
+
+      - name: Upload TTF artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ttf-fonts
+          path: fonts/ttf-built/
+          retention-days: 30
+
+      - name: Upload FontBakery report
+        if: always()
+        run: |
+          fontbakery check-googlefonts --json fontbakery-report.json fonts/ttf-built/*.ttf || true
+          fontbakery check-universal --json fontbakery-universal-report.json fonts/ttf-built/*.ttf || true
+
+      - name: Upload reports as artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fontbakery-reports
+          path: |
+            fontbakery-report.json
+            fontbakery-universal-report.json
+          retention-days: 30
