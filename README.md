@@ -1,6 +1,6 @@
 # Open Sauce Fonts
 
-A contemporary grotesque superfamily designed by [Alfredo Marco Pradil](https://www.behance.net/pradil) for [Creative Sauce](https://www.behance.net/creativesauceagency).
+A contemporary grotesque superfamily designed by [Alfredo Marco Pradil](https://www.behance.net/pradil).
 
 ## Overview
 
